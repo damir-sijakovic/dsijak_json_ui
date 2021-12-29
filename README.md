@@ -6,7 +6,7 @@ Creates JSON list of menu, categories and posts.
 What can this do?
 -----------------
 
-* You can create sliders, product menus without mixing with PHP code.
+* You can create post sliders, menus without mixing with PHP code.
 * You can fetch this JSON file asynchronously. This way page will load faster. 
 
 
